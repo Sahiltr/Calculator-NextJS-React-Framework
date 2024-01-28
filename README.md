@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+A straightforward calculator web application developed using Next.js and React framework. This project showcases the integration of Next.js, a robust React framework for building server-rendered applications, with the flexibility and interactivity of React components.
+
+##Features:
+Basic arithmetic operations (addition, subtraction, multiplication, division)
+Responsive design for seamless usage on various devices
+Developed with the latest Next.js and React best practices
+
 ## Getting Started
 
 First, run the development server:
